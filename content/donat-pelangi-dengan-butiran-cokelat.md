@@ -2,7 +2,7 @@
 categories = []
 date = 2022-09-09T14:00:00Z
 description = ""
-image = "/images/pexels-mateusz-feliksik-13427915.jpg"
+image = "/images/pexels-mateusz-feliksik-13427915-2.jpg"
 tags = []
 title = "Cara Membuat Donat Menul Enak Tanpa Mixer "
 type = "featured"
