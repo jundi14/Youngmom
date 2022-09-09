@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: Ini adalah tentang saya
-image: images/author.jpg
+image: "/images/pexels-pixabay-54455-1.jpg"
 
 ---
 Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
