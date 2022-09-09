@@ -27,4 +27,5 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/cara-membuat-donat-menul-enak-tanpa-mixer-2.md
 - content/donat-pelangi-dengan-butiran-cokelat.md
