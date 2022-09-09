@@ -2,10 +2,9 @@
 categories = ["Philosophy"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-draft = true
 image = "images/featured-post/post-2.jpg"
 tags = ["Philosophy", "Photos"]
-title = "Organize Your Life With 10 Simple rule-(copy)"
+title = "Organize Your Life With 10 Simple rule"
 type = "featured"
 
 +++

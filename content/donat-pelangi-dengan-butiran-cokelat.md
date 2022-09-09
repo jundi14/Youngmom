@@ -2,11 +2,10 @@
 categories = []
 date = 2022-09-09T14:00:00Z
 description = ""
-draft = true
 image = "/images/pexels-mateusz-feliksik-13427915-1.jpg"
 tags = []
 title = "Cara Membuat Donat Menul Enak Tanpa Mixer "
-type = "post"
+type = "featured"
 
 +++
 ### Bahan-bahan :
@@ -36,3 +35,5 @@ type = "post"
 5. Panaskan minyak dengan api sedang cenderung kecil kemudian goreng donat.
 6. Setelah matang, angkat donat dan isi topping dengan selera masing-masing.
 7. Donat siap untuk dihidangkan.
+
+Selamat mencoba! ^_^
